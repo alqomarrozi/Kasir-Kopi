@@ -1,0 +1,2 @@
+__ci_last_regenerate|i:1695717231;message|s:135:"<div class="alert
+                        alert-primary" role="alert"><div class="alert-body">Password salah mohon ulangi!</div></div>";__ci_vars|a:3:{s:7:"message";s:3:"old";s:7:"success";s:3:"old";s:6:"failed";s:3:"old";}logged_in|b:1;id|s:1:"2";username|s:5:"kasir";nama|s:7:"Kasir 1";photo|s:9:"admin.png";level|s:5:"Kasir";created_at|s:19:"2022-02-10 12:47:28";updated_at|s:19:"2022-02-10 12:47:35";costumer_type|i:1;success|s:28:"Berhasil Login Sebagai User!";failed|s:34:"Mohon Register atau Buka Kas Kasir";
